@@ -1,2 +1,2 @@
 # TastyPy
-  ## Just a Random Ones!
+  ## Just for Random Ones!
